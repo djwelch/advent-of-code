@@ -1,2 +1,2 @@
-# advent-of-code
+# Advent Of Code
 Advent of code
